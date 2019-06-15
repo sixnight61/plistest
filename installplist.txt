@@ -26,7 +26,7 @@
 
                   <key>url</key>
 
-                  <string>https://***/XXX.ipa</string>
+                  <string>https://github.com/sixnight61/plistest/blob/master/SSDWC.ipa</string>
 
               </dict>
 
@@ -44,7 +44,7 @@
 
                     <key>url</key>
 
-                    <string>https://***/Icon57.png</string>
+                    <string>https://github.com/sixnight61/plistest/blob/master/52.jpg</string>
 
                 </dict>
 
@@ -62,7 +62,7 @@
 
                     <key>url</key>
 
-                    <string>https://***/Icon57.png</string>
+                    <string>https://github.com/sixnight61/plistest/blob/master/52.jpg</string>
 
                 </dict>
 
@@ -76,11 +76,11 @@
 
                 <key>bundle-identifier</key>
 
-                <string>com.baidu.***</string>
+                <string>com.ss.ios.dwc</string>
 
                 <key>bundle-version</key>
 
-                <string>1.0.0</string>
+                <string>2.0.0</string>
 
                 <key>kind</key>
 
